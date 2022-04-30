@@ -19,7 +19,7 @@ const useGetQuery = (queryKey: any) =>    useQuery(queryKey, ()=> {
     <div>
         <FilmsLenght />
         <SearchFilm />
-        <div>lol</div>
+        
     </div>
   )}
 
